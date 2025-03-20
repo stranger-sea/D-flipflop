@@ -32,7 +32,7 @@ How to Use
 - Transistor sizing was chosen to balance speed, power, and area, but further optimization may be possible depending on the target application.
 
 
-Acknowledgments
+Acknowledgments:
 Designed as part of a VLSI design project using Cadence Virtuoso.
 
 
